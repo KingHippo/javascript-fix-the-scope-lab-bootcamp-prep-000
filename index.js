@@ -1,6 +1,6 @@
-var animal = 'dog'
 
 function myAnimal() {
+  var animal = 'dog';
   return animal;
 }
 
@@ -28,5 +28,5 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction();
 
-yourAnimal('cat');
+
 theFunk();
